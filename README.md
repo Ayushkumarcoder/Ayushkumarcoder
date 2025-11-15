@@ -1,5 +1,5 @@
 ![Header](./github-header-banner.png)
-<h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
+<!-- <h1 align="center">Hi 👋, I'm Ayush Kumar</h1> -->
 
 <!--Night Owl image-->
 <div>
