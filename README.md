@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
 <h3 align="center">A passionate fullStack developer from India</h3>
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
 
-<p align="left"> <a href="https://twitter.com/ayush_mishra_93" target="blank"><img src="https://img.shields.io/twitter/follow/ayush_mishra_93?logo=twitter&style=for-the-badge" alt="ayush_mishra_93" /></a> </p>
+<!--Start Intro-->               
+<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
 
-- 🌱 I’m currently learning **Next.js**
-
-- 💬 Ask me about **React, Node.js, AI-Integration**
-
-- 📫 How to reach me **https://x.com/ayush_mishra_93**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
